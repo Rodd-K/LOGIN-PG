@@ -5,5 +5,5 @@
    and the API endpoint shown there too.
    ============================================ */
 
-const APPWRITE_ENDPOINT = "https://fra.cloud.appwrite.io/v1"; // <-- replace with your region endpoint
-const APPWRITE_PROJECT_ID = "YOUR_PROJECT_ID"; // <-- replace with your Appwrite project ID
+const APPWRITE_ENDPOINT = "https://fra.cloud.appwrite.io/v1";
+const APPWRITE_PROJECT_ID = "6a7c33c000093ffe8be3";
